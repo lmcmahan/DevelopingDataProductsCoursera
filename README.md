@@ -1,4 +1,3 @@
-DevelopingDataProductsCoursera
+Coursera Course: Developing Data Products
 ==============================
 
-Repository for Coursera Developing Data Product Final Project
