@@ -2,7 +2,7 @@ Coursera Course: Developing Data Products
 ==============================
 
 ## Introduction
-This repository is created for the final project of the 'Developing Data Product' Coursera course.  The repository consists of three final project submission files:
+This repository is created for the final project of the 'Developing Data Products' Coursera course.  The repository consists of three final project submission files:
 - ui.R
 - server.R
 - README.md 
