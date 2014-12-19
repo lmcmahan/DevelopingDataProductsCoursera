@@ -16,5 +16,5 @@ The ui.R and server.R are the code I have written for the final project shiny ap
 
 If you like to run my **Iris Species Prediction** shiny application locally on your installed RStudio, you need to:
 
-1. Clone the code of this repository using 'git clone https://github.com/rwstang/Developing-Data-Products-Assignment.git YOURDIRECTORY'
+1. Clone the code of this repository using 'git clone https://github.com/lmcmahan/DevelopingDataProductsCoursera.git YOURDIRECTORY'
 2. Clone the code of this repository using 'git clone https://github.com/lmcmahan/DevelopingDataProductsCoursera.git YOURDIRECTORY'
