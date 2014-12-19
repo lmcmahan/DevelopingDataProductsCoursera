@@ -19,6 +19,6 @@ If you like to run my **Iris Species Prediction** shiny application locally on y
 1. Clone the code of this repository using 'git clone https://github.com/lmcmahan/DevelopingDataProductsCoursera.git YOURDIRECTORY'
 2. Start your RStudio
 3. Set your working directory to YOURDIRECTORY using setwd("YOURDIRECTORY")
-4. Install and load the shiny package
+4. Install and load the shiny package using first install.packages("shiny") then library(shiny)
 5. Run the application using runApp()
 6. The **Iris Species Prediction** shiny application will appear in a browser.  To get help on how to use the application, click on the application's [User Help Page](https://lmcmahan.shinyapps.io/project/userHelpPage.html) link
